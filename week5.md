@@ -3,7 +3,9 @@
 ## fd ./technical
        fd .government
        fd .biomed
+       fd -tm biomed
        fd .plos
+       download/plos.md
 ## *./technical
         * .government
         * .biomed
